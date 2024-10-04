@@ -6,3 +6,4 @@ This repository contains some mini games in python.
  - Guess the Number
  - Rock Paper Scissors
  - Choose Own Adventure Storyline Game
+ - Pig Game (Roll dice until one player achieve 50 points)
